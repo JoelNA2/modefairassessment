@@ -17,6 +17,7 @@ class Vehicle:
         self.route = []
         self.current_load = 0
         self.total_distance = 0
+        
 # Function to calculate Euclidean distance
 def calculate_distance(customer1, customer2):
     delta_longitude = customer2.longitude - customer1.longitude
@@ -120,7 +121,7 @@ def vehicle_routing_problem(vehicles, customers, depot):
     print(f"Total Cost = RM {total_cost:.2f}")
     
 
-# Input Data
+# Data
 depot = Customer(0, 4.4184, 114.0932, 0)
 customers_data = [
     {'id': 1, 'latitude': 4.3555, 'longitude': 113.9777, 'demand': 5},
