@@ -29,4 +29,4 @@ The script models the VRP using classes and functions:
 The script requires the `math` module for distance calculations.
 
 #### Result:
-![Alt Text]([Screenshot 2024-04-30 at 01.14.07.png](https://github.com/JoelNA2/modefairassessment/blob/main/Screenshot%202024-04-30%20at%2001.14.07.png))
+![Alt Text]([[Screenshot 2024-04-30 at 01.14.07.png](https://github.com/JoelNA2/modefairassessment/blob/main/Screenshot%202024-04-30%20at%2001.14.07.png)](https://github.com/JoelNA2/modefairassessment/blob/main/result.png))
